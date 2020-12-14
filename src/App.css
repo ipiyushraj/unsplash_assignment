@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.mydiv {
+  display: flex;
+  justify-content: space-around;
+  margin: 10px 7%;
+  box-shadow: 1px 1px 5px grey;
+  padding: 10px;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  max-height: 400px;
+  margin: 5px;
+}
+
+.item {
+  padding: 10px;
+}
+
+.likeButton {
+  margin: 5px 0px 0px 0px;
+  padding: 10px 0px 0px 0px;
+}
